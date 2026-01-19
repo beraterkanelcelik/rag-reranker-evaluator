@@ -1,4 +1,5 @@
 # RAG + Reranker Evaluation Platform
+[![RAG + Reranker Evaluation Platform](./assets/demo-evaluator.gif)](./assets/demo-eval.mp4)
 
 Purpose-built to benchmark RAG pipelines on Open RAGBench with optional rerankers and an LLM-as-judge scoring loop.
 
